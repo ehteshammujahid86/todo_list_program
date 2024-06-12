@@ -1,0 +1,19 @@
+{
+  "name": "en12ss_todo_list",
+  "version": "1.0.0",
+  "description": "in this program you can add tasks i your todo list",
+  "main": "todo_list.js",
+  "type": "module",
+  "bin": "todo_list.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ehtesham Mujahid",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
